@@ -1,8 +1,9 @@
 // TO DO:
-// I-SHAPE ROTATION NOT WORKING BECAUSE OF 2 CELLS THAT CAN BE COLLIDING. CORRECTION RIGHT NOW MOVES SHAPE ONLY ONE CELL.
-// Maybe develope global rotation function that works for all shapes to reduce code
+// I-shape rotation not working properly
+// global rotation function that works for all shapes
 // Animations: Deleting Row, Score, ...
 // Introduce Start Countdown
+// Preview next shape
 
 // SOME GLOBALS
 const startGameWindow = document.querySelector(".start-lightbox");
